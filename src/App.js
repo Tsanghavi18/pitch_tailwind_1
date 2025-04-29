@@ -12,6 +12,8 @@ import Cards from "./view/Cards";
 import Howpitchworks from "./view/Howpitchworks";
 import ScrollSlider from "./view/ScrollSlider";
 
+// hello
+
 export default function App() {
   return (
     <>
